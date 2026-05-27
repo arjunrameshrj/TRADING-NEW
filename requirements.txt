@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-pandas
-pandas-ta
-python-dotenv
